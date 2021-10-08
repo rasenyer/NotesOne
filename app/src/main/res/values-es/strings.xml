@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotesOne</string>
+    <string name="title">Título</string>
+    <string name="description">Descripción</string>
+    <string name="add_note">Agregar nota</string>
+    <string name="edit_note">Editar nota</string>
+    <string name="save">Guardar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="are_you_sure_you_want_to_delete_this_note">¿Estás seguro de que quieres eliminar esta nota?</string>
+    <string name="no">No</string>
+    <string name="yes">Si</string>
+    <string name="details">Detalles</string>
+</resources>
